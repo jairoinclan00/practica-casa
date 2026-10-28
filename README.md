@@ -1,6 +1,1 @@
-
-
-S
-s
-s
-23
+gi tcomdajad

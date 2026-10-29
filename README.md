@@ -9,6 +9,9 @@ djasjdasdas
 dsda
 coño
 
+me acaba de petar
+gracias claude
+
 por ffin
 
 hago merge con main y push

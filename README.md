@@ -1,3 +1,4 @@
+
 por que no salen coño
 
 ya los tengo en compañero
@@ -12,4 +13,6 @@ coño
 por ffin
 
 hago merge con main y push
+
+
 

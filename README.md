@@ -2,4 +2,4 @@ con esto tiene que salir 2 commits
 
 por que no sale el segundo commit
 
-dhhdha
+Para que salgan los commits en github tengo que mergear main con rama1 y hacer push
